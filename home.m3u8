@@ -8,6 +8,7 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4K
 http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1771300800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-664acd6fbce37d34526790039ea494bd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png",咪咕体育4K
 http://r.jdshipin.com/ln4xk
 #EXTINF:-1 group-title="北京" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png",北京纪实8K
